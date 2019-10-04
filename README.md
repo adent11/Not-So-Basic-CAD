@@ -5,4 +5,5 @@
 Cstick.SLDPRT <br/>
 Loft_Tutorial.SLDPRT <br/>
 
-In this assignment I did the Solidworks tutorials Revolves and Sweeps, and Lofts. In making a candlestick and hammer head I learned how to use sweeps and lofts.
+In this assignment I did the Solidworks tutorials Revolves and Sweeps, and Lofts. I enjoyed this assignment because I learned how to use sweeps and lofts while making a model of something real.
+<br/>
