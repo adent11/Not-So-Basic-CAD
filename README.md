@@ -2,8 +2,8 @@
 
 ## Sweeps and Lofts
 #### Included Files:
-Cstick.SLDPRT <br/>
-Loft_Tutorial.SLDPRT <br/>
+<a href="Cstick.SLDPRT">Cstick.SLDPRT</a> <br/>
+<a href="Loft_Tutorial.SLDPRT">Loft_Tutorial.SLDPRT</a><br/>
 
 This assignment was the Solidworks tutorials Revolves and Sweeps, and Lofts. In them I made a candlestick and a hammer head using new tools. I enjoyed this assignment because I learned how to use sweeps and lofts while making a model of something real.
 <br/>
@@ -11,7 +11,7 @@ This assignment was the Solidworks tutorials Revolves and Sweeps, and Lofts. In 
 <br/>
 ## A Little Practice
 #### Included Files:
-Pressure_Plate.SLDPRT
+Pressure_Plate.SLDPRT<br/>
 Tutor1.SLDPRT<br/>
 Tutor2.SLDPRT<br/>
 tutor.SLDASM<br/>
