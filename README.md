@@ -11,12 +11,7 @@ This assignment was the Solidworks tutorials Revolves and Sweeps, and Lofts. In 
 <br/>
 ## A Little Practice
 #### Included Files:
-Pressure_Plate.SLDPRT<br/>
-Tutor1.SLDPRT<br/>
-Tutor2.SLDPRT<br/>
-tutor.SLDASM<br/>
-
-
-
-
-
+<a href="Pressure_Plate.SLDPRT">Pressure_Plate.SLDPRT</a><br/>
+<a href="Tutor1.SLDPRT">Tutor1.SLDPRT</a><br/>
+<a href="Tutor2.SLDPRT">Tutor2.SLDPRT</a><br/>
+<a href="tutor.SLDASM">tutor.SLDASM</a><br/>
