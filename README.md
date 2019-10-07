@@ -17,4 +17,4 @@ This assignment was the Solidworks tutorials Revolves and Sweeps, and Lofts. In 
 <a href="tutor.SLDASM">tutor.SLDASM</a><br/>
 
 
-<IMG SRC="Images/Pressure_PlateImage.PNG"  width="250" height="185"> <IMG SRC="Images/tutorImage.PNG"  width="190" height="185">
+<IMG SRC="Images/Pressure_PlateImage.PNG"  width="250" height="185"> <IMG SRC="Images/tutorImage.PNG"  width="185" height="185">
