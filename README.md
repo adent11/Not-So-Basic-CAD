@@ -17,6 +17,8 @@ The most challenging part of this assignment was the flex feature in the hammer 
 <a href="Tutor2.SLDPRT">Tutor2.SLDPRT</a><br/>
 <a href="tutor.SLDASM">tutor.SLDASM</a><br/>
 
-In this assignment I made a pressure plate and an assembly of a block. These assign
+This assignment was the Solidworks tutorials Introduction to Solidworks, Lesson 1: Parts, Lesson 2: Assemblies, in which I made a pressure plate and an assembly of a block.
 <br/>
 <IMG SRC="Images/Pressure_PlateImage.PNG"  width="250" height="185"> <IMG SRC="Images/tutorImage.PNG"  width="185" height="185">
+<br/>
+I didn't find this assignment very difficult, as it was a review of things I already knew.
