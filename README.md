@@ -21,4 +21,4 @@ This assignment was the Solidworks tutorials Introduction to Solidworks, Lesson 
 <br/>
 <IMG SRC="Images/Pressure_PlateImage.PNG"  width="250" height="185"> <IMG SRC="Images/tutorImage.PNG"  width="185" height="185">
 <br/>
-I didn't find this assignment very difficult, as it was a review of things I already knew.
+I didn't find this assignment very difficult, as it was mostly a review of things I already knew.
