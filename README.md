@@ -5,7 +5,7 @@
 <a href="Cstick.SLDPRT">Cstick.SLDPRT</a> <br/>
 <a href="Loft_Tutorial.SLDPRT">Loft_Tutorial.SLDPRT</a><br/>
 
-This assignment was the Solidworks tutorials Revolves and Sweeps, and Lofts. In them I made a candlestick and a hammer head using new tools.
+This assignment was the Solidworks tutorials *Revolves and Sweeps*, and *Lofts*. In them I made a candlestick and a hammer head using new tools.
 <br/><br/>
 <IMG SRC="Images/CstickImage.PNG"  width="272" height="200"> <IMG SRC="Images/Loft_TutorialImage.PNG"  width="296" height="200">
 <br/><br/>
@@ -17,7 +17,7 @@ The most challenging part of this assignment was the flex feature in the hammer 
 <a href="Tutor2.SLDPRT">Tutor2.SLDPRT</a><br/>
 <a href="tutor.SLDASM">tutor.SLDASM</a><br/>
 
-This assignment was the Solidworks tutorials Introduction to Solidworks, Lesson 1: Parts, Lesson 2: Assemblies, in which I made a pressure plate and an assembly of a block.
+This assignment was the Solidworks tutorials *Introduction to Solidworks*, *Lesson 1: Parts*, and *Lesson 2: Assemblies*, in which I made a pressure plate and an assembly of a block.
 <br/>
 <IMG SRC="Images/Pressure_PlateImage.PNG"  width="285" height="200"> <IMG SRC="Images/tutorImage.PNG"  width="185" height="200">
 <br/>
